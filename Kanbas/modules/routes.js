@@ -32,4 +32,5 @@ function ModuleRoutes(app) {
         res.send(modules);
     });
 }
+
 export default ModuleRoutes;
