@@ -1,6 +1,6 @@
 import express from 'express';
 import mongoose from "mongoose";
-import UserRoutes from "./Users/routes.js";
+import UserRoutes from "./Kanbas/Users/routes.js";
 import Hello from './Hello.js';
 import Lab5 from './Lab5.js';
 import cors from "cors";
